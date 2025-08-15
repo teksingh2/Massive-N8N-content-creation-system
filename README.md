@@ -27,10 +27,9 @@ while keeping detailed execution logs for monitoring and analytics.
 
 ## Usage
 
-1. Clone this repository.
-2. Import the provided workflow JSON into your n8n instance.
-3. Configure API keys for the services you want to use.
-4. Trigger the workflow manually or via schedule/webhook.
+1. Import the provided workflow JSON into your n8n instance.
+2. Configure API keys for the services you want to use.
+3. Trigger the workflow manually or via schedule/webhook.
 
 ---
 
